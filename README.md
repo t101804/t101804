@@ -13,7 +13,6 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://64.media.tumblr.com/b571cf60181129e78a2c5985b443851e/tumblr_pky1ntVRAF1v059coo1_540.gif">
 </a>
 
-**CONTACT : t101804@protonmail.com**
 - 🔭 I’m currently working on **Web Development And App Development**
 - 🌱 I’m currently learning **Golang and C#**
 - 👯 I’m looking to collaborate on my project with **Python Or Golang**
@@ -51,7 +50,7 @@
 <p align="center">
 <a href="https://github.com/t101804">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=t101804&show_icons=true&theme=vue-light&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=t101804&layout=compact&exclude_lang=java+r&theme=vue-light" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=t101804&layout=compact&exclude_lang=java+r&theme=vue-light&include_all_commits=true&count_private=true" />
 </a>
 </p>
 
