@@ -1,73 +1,41 @@
-### Profile T10
-
 <h1 align="center">
-  𝐇𝐞𝐥𝐥𝐨, Welcome in &lt;T10/&gt; Profile!
-  <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
-  </a>
-</h1>
-
-<br/>
-<br/>
-<a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://64.media.tumblr.com/b571cf60181129e78a2c5985b443851e/tumblr_pky1ntVRAF1v059coo1_540.gif">
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=ubuntu&color=%23B335F7&size=22&vCenter=true&height=40&lines=Welcome+to+my+home+page+%F0%9F%91%8B;I+guess+you+are+a+hacker+%F0%9F%A4%94;Nice+to+meet+you+%F0%9F%98%9D;Hope+there+is+something+you+need+%F0%9F%8E%81">
 </a>
-#### This Not my main github account
+</h1>  
 
-- 🔭 I’m currently working on **Web Development And App Development**
-- 🌱 I’m currently learning **Golang and C#**
-- 👯 I’m looking to collaborate on my project with **Python Or Golang**
-- 💬 Ask me about Anything [here](https://github.com/t101804/t101804/issues/1)! I am happy to help.
-<br>
-<code><img height="40" width="40" src="https://blog.golang.org/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg"></code>
-<code><img height="40" width="40" src="https://brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
-<code><img height="40" width="36" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png"></code>
+### Hi there 👋 I'm t101804 or no1dentity but you can call me Rep <img align='right' src='http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=t101804&theme=nord_dark' width='280px'>
 
+- 📺 My Youtube: [[https://space.bilibili.com/64648363](https://www.youtube.com/@CallMeRep)](https://space.bilibili.com/64648363)
+- 🛫 My Telegram: [t.me/CallMeRep](t.me/zhzyker)
 
-<br/>
-<br/>
+<img src='https://img.shields.io/badge/-zhzyker/vulmap-3A77A9?style=flat-square&logo=python&logoColor=white&labelColor=6495ED' width='140px'> <img src='https://img.shields.io/badge/-zhzyker/dismap-00BFFF?style=flat-square&logo=go&logoColor=white&labelColor=87CEFA' width='140px'> <img src='https://img.shields.io/badge/-zhzyker/crkmap-00CED1?style=flat-square&logo=go&logoColor=white&labelColor=40E0D0' width='140px'>
 
+***
 
-<p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=t101804" alt="t101804" />
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/t101804?label=Followers&style=social"> •   
-  <img src="https://img.shields.io/github/stars/t101804?label=Stars" alt="Total Stars">
-</p>
+<img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=t101804&theme=nord_dark' width='555px'> <img align='right' src='http://github-profile-summary-cards.vercel.app/api/cards/stats?username=t101804&theme=nord_dark' width='270px'>
+
+<img src='https://github.com/zhzyker/zhzyker/blob/main/images/banner-github-1.png'>
+
+<!--
+### Hi there 👋 I'm zhzyker also 之乎者也 <img align='right' src='https://github-readme-stats.vercel.app/api?username=zhzyker&show_icons=true&theme=cobalt' width='380px'>
 
 
+**zhzyker/zhzyker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![vulmap](https://img.shields.io/badge/-zhzyker/vulmap-3A77A9?style=flat-square&logo=python&logoColor=white&labelColor=6495ED)
+![dismap](https://img.shields.io/badge/-zhzyker/dismap-00BFFF?style=flat-square&logo=go&logoColor=white&labelColor=87CEFA) 
+![crkmap](https://img.shields.io/badge/-zhzyker/crkmap-00CED1?style=flat-square&logo=go&logoColor=white&labelColor=40E0D0) 
+![banner](https://github.com/zhzyker/zhzyker/blob/main/images/banner-github-1.png)
+Here are some ideas to get you started:
 
-
-### ⚙️ &nbsp; GitHub Analytics
-<p align="center">
-  <a href="https://github.com/t101804/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=t101804#version3"/>
-  </a>
-</p>
-
-<h3 align="center">⬇ Scroll down to see <a href="https://github.com/t101804?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
-
-
-<p align="center">
-<a href="https://github.com/t101804">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=t101804&show_icons=true&theme=vue-light&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=t101804&layout=compact&exclude_lang=java+r&theme=vue-light&include_all_commits=true&count_private=true" />
-</a>
-</p>
-
-
-
-<div align="center">
-
-
-<br/>
-
-
-
-
-
-
-------
-Credits: [t101804](https://github.com/t101804)
-
-Last edited on: 2022 Sep
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+- 🐶 My:  
+![myslef](https://user-images.githubusercontent.com/32918050/97097194-b318dd00-16a8-11eb-8e5d-415990799fba.gif)
+-->
