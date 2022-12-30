@@ -4,7 +4,7 @@
 </a>
 </h1>  
 
-### Hi I'm t101804 or no1dentity but you can call me Rep <img align='right' src='http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=t101804&theme=nord_dark' width='280px'>
+### Hi I'm t101804 but you can call me Rep 
 ```golang
 package README.md
 
@@ -24,5 +24,5 @@ func main() {
 ![dismap](https://img.shields.io/badge/-t101804t101804/dismap-00BFFF?style=flat-square&logo=go&logoColor=white&labelColor=87CEFA) 
 ![crkmap](https://img.shields.io/badge/-t101804/crkmap-00CED1?style=flat-square&logo=go&logoColor=white&labelColor=40E0D0) 
 ***
-
-<img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=t101804&theme=nord_dark' width='555px'> <img align='right' src='http://github-profile-summary-cards.vercel.app/api/cards/stats?username=t101804&theme=nord_dark' width='270px'>
+<img align='left' src='http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=t101804&theme=nord_dark' width='280px'>
+<img align='center' src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=t101804&theme=nord_dark' width='555px'> 
