@@ -10,7 +10,7 @@ package README.md
 
 import "fmt"
 
-var listLanguanges = "Golang, Python, C++, Javascript, Bash, Perl"
+var listLanguanges = "Golang, Python, Javascript, Bash, Perl, C++"
 
 func MySkill(im learner) string {
 	skill := fmt.Sprintf("My languanges %s", listLanguanges)
