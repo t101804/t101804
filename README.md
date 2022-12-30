@@ -6,10 +6,13 @@
 
 ### Hi I'm t101804 or no1dentity but you can call me Rep <img align='right' src='http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=t101804&theme=nord_dark' width='280px'>
 ```golang
-func MySkill() {
-	skill := fmt.Sprintf("%s%s%s", Golang(), Python(), CyberSec())
+func MySkill(i'm learner) string {
+	skill := fmt.Sprintf("Hi i'm work with these languanges %s, %s, %s, %s", Golang(), Python(), C++(), Javascipt())
+	return skill
 }
-
+func main() {
+	fmt.Print(MySkill(Rep))
+}
 ```
 ![vulmap](https://img.shields.io/badge/-t101804/vulmap-3A77A9?style=flat-square&logo=python&logoColor=white&labelColor=6495ED)
 ![dismap](https://img.shields.io/badge/-t101804t101804/dismap-00BFFF?style=flat-square&logo=go&logoColor=white&labelColor=87CEFA) 
