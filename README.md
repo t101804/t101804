@@ -10,7 +10,7 @@ func Languanges() string {
 	listLanguanges := "Golang, Python, C++, Javascript"
 }
 func MySkill(im learner) string {
-	skill := fmt.Sprintf("Hi i'm work with these languanges %s", Languanges)
+	skill := fmt.Sprintf("My languanges %s", Languanges)
 	return skill
 }
 func main() {
