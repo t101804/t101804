@@ -6,11 +6,11 @@
 
 ### Hi I'm t101804 or no1dentity but you can call me Rep <img align='right' src='http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=t101804&theme=nord_dark' width='280px'>
 ```golang
-func Languanges() {
+func init() {
 	listLanguanges := "Golang, Python, C++, Javascript"
 }
 func MySkill(im learner) string {
-	skill := fmt.Sprintf("My languanges %s", Languanges)
+	skill := fmt.Sprintf("My languanges %s", listLanguanges)
 	return skill
 }
 func main() {
