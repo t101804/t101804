@@ -13,8 +13,7 @@ import "fmt"
 var listLanguanges = "Golang, Python, Javascript, Bash, Perl, C++"
 
 func MySkill(im learner) string {
-	skill := fmt.Sprintf("My languanges %s", listLanguanges)
-	return skill
+	return fmt.Sprintf("My languanges %s", listLanguanges)
 }
 func main() {
 	fmt.Print(MySkill(Rep))
