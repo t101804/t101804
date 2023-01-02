@@ -24,5 +24,7 @@ func main() {
 ![dismap](https://img.shields.io/badge/-t101804t101804/dismap-00BFFF?style=flat-square&logo=go&logoColor=white&labelColor=87CEFA) 
 ![crkmap](https://img.shields.io/badge/-t101804/crkmap-00CED1?style=flat-square&logo=go&logoColor=white&labelColor=40E0D0) 
 ***
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xact6527cgeo75wmlcumeuvb9&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=ff8040&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=xact6527cgeo75wmlcumeuvb9&redirect=true)
+<br>
 <img align='left' src='http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=t101804&theme=nord_dark' width='280px'>
 <img align='center' src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=t101804&theme=nord_dark' width='555px'> 
