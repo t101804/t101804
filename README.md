@@ -12,7 +12,7 @@ import "fmt"
 
 var listLanguanges = "Golang, Python, Javascript, Bash, Perl, C++"
 
-func MySkill(im learner) string {
+func MySkill(Newbie my_name) string {
 	return fmt.Sprintf("My languanges %s", listLanguanges)
 }
 func main() {
