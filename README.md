@@ -26,5 +26,5 @@ func main() {
 ***
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xact6527cgeo75wmlcumeuvb9&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=ff8040&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=xact6527cgeo75wmlcumeuvb9&redirect=true)
 <br>
-<img align='left' src='http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=t101804&theme=nord_dark' width='280px'>
+<img align='left' src='https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=t101804&theme=nord_dark' width='280px'>
 <img align='center' src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=t101804&theme=nord_dark' width='555px'> 
