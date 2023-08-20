@@ -31,8 +31,8 @@ type BioData struct {
 
 func GetSkills() *Profile {
 	return &Profile{
-		Language: []string{"Go", "Python", "JavaScript", "SQL"},
-		Other:    []string{"Conccurency Programming", "Cloud Server Management", "Big Data Management"},
+		Language: []string{"Go", "Python", "JavaScript", "C++"},
+		Other:    []string{"Conccurency Spesialist", "Cloud Engineer", "Big Data Specialist", "Cyber Security Aalyst"},
 	}
 }
 
