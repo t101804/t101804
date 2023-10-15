@@ -7,6 +7,7 @@
 <body>
   <center>
 <div align="center">
+ <p>Cyber Security Enthusiast</p>
  <p>𝕥𝕣𝕪𝕚𝕟𝕘 𝕟𝕠𝕥 𝕥𝕠 𝕓𝕖 𝕤𝕜𝕚𝕕</p>
 <br>
 <!-- <a href="https://discord.com/users/202740603790819328" > -->
