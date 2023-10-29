@@ -21,7 +21,7 @@
 <div align="center">
   <h2>Other</h2>
   <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api/wakatime?username=018b3191-385a-41d1-94f5-146f8d64319c&layout=compact&theme=radical" alt="t101804" /></p>
-  <p>&nbsp;<img src="https://spotify-github-profile.vercel.app/api/view?uid=xact6527cgeo75wmlcumeuvb9&cover_image=true&theme=compact&show_offline=true&background_color=8b8afa&interchange=false"/></p>
+  <p>&nbsp;<img src="https://spotify-github-profile.vercel.app/api/view?uid=xact6527cgeo75wmlcumeuvb9&cover_image=true&theme=default&show_offline=true&background_color=141321&interchange=false&bar_color=ff0080&bar_color_cover=false"/></p>
 </div>
   
 </div> 
