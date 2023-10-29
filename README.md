@@ -11,7 +11,7 @@
  <p>𝕥𝕣𝕪𝕚𝕟𝕘 𝕟𝕠𝕥 𝕥𝕠 𝕓𝕖 𝕤𝕜𝕚𝕕</p>
 <br>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xact6527cgeo75wmlcumeuvb9&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&bar_color=ff00ff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=xact6527cgeo75wmlcumeuvb9&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xact6527cgeo75wmlcumeuvb9&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=true&bar_color=ff00ff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=xact6527cgeo75wmlcumeuvb9&redirect=true)
 <!-- <a href="https://discord.com/users/202740603790819328" > -->
   <a href="https://thicc-thighs.de/" >
    <img src="https://lanyard.kyrie25.me/api/357295214857027626?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"  />
