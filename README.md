@@ -23,7 +23,7 @@
 
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api/wakatime?username=r3plican&layout=compact&theme=radical" alt="t101804" /></p>
-  <p>&nbsp;<img src="https://spotify-github-profile.vercel.app/api/view?uid=xact6527cgeo75wmlcumeuvb9&cover_image=true&theme=default&show_offline=true&background_color=141321&interchange=false&bar_color=ff0080&bar_color_cover=false"/></p>
+  <p>&nbsp;<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=xact6527cgeo75wmlcumeuvb9&cover_image=true&theme=default&show_offline=true&background_color=141321&interchange=false&bar_color=ff0080&bar_color_cover=false"/></p>
 </div>
   
 </div> 
