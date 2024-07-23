@@ -7,9 +7,9 @@
   <center>
 <div align="center">
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_1.png"/>
-   <h2>Hacktivist</h2>
+   <h2>Cyber Security by  Day, vigilante skid by night</h2>
   <p> <a href="https://www.youtube.com/@CallMeRep"><img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a> <a href="https://medium.com/@CallMeRep"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://dev.to/callmerep"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
-   <p>devops|fullstack|ctf|whitebox-pentest|reverse|binex|digital-forensic|steganography|cloud|blockchain|misc|microservice</p>
+   <p>code a code</p>
     <br>
   <a align="left">
    <img src="https://lanyard.kyrie25.me/api/357295214857027626?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"  />
