@@ -3,7 +3,7 @@
   <center>
 <div align="center">
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_1.png"/>
-   <h4>just a random tech guys</h4>
+   <h4>"just a random tech guys"</h4>
  <p>🚩</p>
   <p> <a href="https://www.youtube.com/@CallMeRep"><img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a> <a href="https://medium.com/@CallMeRep"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://dev.to/callmerep"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
     <br>
