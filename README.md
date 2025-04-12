@@ -9,9 +9,7 @@
     <br>
   <a align="left">
    <img src="https://lanyard.kyrie25.dev/api/357295214857027626?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"  />
-  </a>
-  <a href="https://github.com/t101804" align="center"><img src="https://github-readme-stats.vercel.app/api?username=t101804&hide_border=true&show_icons=true&theme=radical" alt="t101804's github stats"></a>
-  <br>
+  </a>  <br>
 </div>
     
 <div align="center">
